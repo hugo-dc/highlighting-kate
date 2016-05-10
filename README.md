@@ -7,6 +7,7 @@ now [part of the KDE Framework's "KTextEditor" component](http://kate-editor.org
 It can produce both HTML and LaTeX output.
 
 Currently, the following languages/formats are supported:
+- Abap
 - Abc
 - Actionscript
 - Ada
